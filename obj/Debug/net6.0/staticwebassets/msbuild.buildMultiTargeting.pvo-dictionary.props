@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\pvo-dictionary.props" />
+</Project>
